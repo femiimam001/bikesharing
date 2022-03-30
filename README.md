@@ -18,15 +18,15 @@ Show the length of time that bikes are checked out for all riders and genders Sh
 # Results:
 
 There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
-[link to dashboard](https://public.tableau.com/app/profile/olufemi.imam/viz/Challenge14_16486588322460/CheckoutTimesforusers?publish=yes)
+[](https://public.tableau.com/app/profile/olufemi.imam/viz/Challenge14_16486588322460/CheckoutTimesforusers?publish=yes)
 There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
-[link to dashboard](https://public.tableau.com/app/profile/olufemi.imam/viz/NYCCitiDashboard_16486690777710/Dashboard1?publish=yes)
+[checkout times by gender](https://public.tableau.com/app/profile/olufemi.imam/viz/tripbyweekdayperhour/Checkouttimesbygender?publish=yes)
 A heatmap is created showing the number of bike trips for each hour of each day of the week.
-[link to dashboard](https://public.tableau.com/app/profile/olufemi.imam/viz/NYCCitiDashboard_16486690777710/Dashboard1?publish=yes)
+[trip by weekday per hour](https://public.tableau.com/app/profile/olufemi.imam/viz/NYCCitiDashboard_16486690777710/Dashboard1?publish=yes)
 A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
-[link to dashboard](https://public.tableau.com/app/profile/olufemi.imam/viz/NYCCitiDashboard_16486690777710/Dashboard1?publish=yes)
+[trip by gender weeday per hour](https://public.tableau.com/app/profile/olufemi.imam/viz/NYCCitiDashboard_16486690777710/Dashboard1?publish=yes)
 A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
-[link to dashboard](https://public.tableau.com/app/profile/olufemi.imam/viz/NYCCitiDashboard_16486690777710/Dashboard1?publish=yes)
+[user trip by gerder by weekday](https://public.tableau.com/app/profile/olufemi.imam/viz/NYCCitiDashboard_16486690777710/Dashboard1?publish=yes)
 
 [link to dashboard](https://public.tableau.com/app/profile/olufemi.imam/viz/NYCCitiDashboard_16486690777710/Dashboard1?publish=yes)
 
